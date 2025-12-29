@@ -1,3 +1,0 @@
-stages:
-  data_ingestion:
-  cmd:python/src

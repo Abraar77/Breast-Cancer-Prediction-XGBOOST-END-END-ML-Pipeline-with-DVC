@@ -1,3 +1,0 @@
-The benifit of using dvc is it only runs those files that are not staged or that did not run yet
-
-without dvc when we will run it, it will run every data pipe line each time we hit the 

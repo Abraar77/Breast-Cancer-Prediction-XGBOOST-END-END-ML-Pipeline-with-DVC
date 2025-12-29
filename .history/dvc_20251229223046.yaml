@@ -1,8 +1,0 @@
-stages:
-  data-ingestion:
-    cmd: python src/data-ingestion.py
-    deps:
-      - src/data-ingestion.py
-    outs:
-      - data/raw
-  

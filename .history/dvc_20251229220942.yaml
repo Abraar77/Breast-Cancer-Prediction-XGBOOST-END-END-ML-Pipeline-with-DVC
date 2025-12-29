@@ -1,0 +1,7 @@
+stages:
+  data_ingestion:
+  cmd:python src/data_ingestion.py
+  deps: #it is dependent on?
+    - src/data_ingestion.py
+  outs: #what will be the output
+    - data/raw
